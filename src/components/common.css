@@ -1,0 +1,15 @@
+.main-app{
+      background-color: aqua;
+      margin:50px;
+      text-align:center;
+      color: whitesmoke;
+      padding: 40px;
+      border:5px dotted black;
+      box-shadow:10px 10px 10px black;
+      border-radius:50%;
+      width: 500px;
+      height:500px;
+      margin: auto;
+      text-shadow: 10px 10px 10px black;
+}
+
